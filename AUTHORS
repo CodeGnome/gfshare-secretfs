@@ -1,0 +1,38 @@
+# Additional Authors
+
+## Background
+The copyright for the original code is held by Daniel Silverstone. The
+copyright of all patches and contributes are held by their respective
+owners, and will be listed here separate from the original license's
+copyright statement.
+
+## Interpretation
+The original code must contain an attribute to Mr. Stone. That is the
+primary condition of the license. While it would be more convenient if
+Mr. Silverstone would consider re-licensing his code under GPL-3, that
+is currently not the case. Therefore, while I am not a lawyer, I believe
+that contributions to such a codebase can be made under GPL-3, and will
+be listed here as such.
+
+## How to Contribute
+When making pull requests, please note your contributions in this file,
+and specify that *your contributions* are licensed under one of the
+following:
+
+- [GPL, Version 3 or later][1] for code.
+- [Creative Commons Attribution-ShareAlike 4.0 International License][2]
+  for documentation.
+
+---
+
+# Contributions
+
+-  README.md
+
+    Copyright 2016, Todd A. Jacobs.  
+    ![CC-BY-SA 4.0][4]
+
+[1]: https://www.gnu.org/licenses/gpl-3.0.en.html
+[2]: https://www.gnu.org/graphics/gplv3-127x51.png
+[3]: http://creativecommons.org/licenses/by-sa/4.0/
+[4]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
