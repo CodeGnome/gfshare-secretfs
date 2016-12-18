@@ -11,15 +11,12 @@ The sources for this mirror are:
 1. <https://git.gitano.org.uk/libgfshare.git/>
 
 # Authenticity
-I have no availability to authenticate the sources, other than a brief
-Twitter exchange I had with Daniel back in September of 2015. It's
-reproduced below.
+The sources have been authenticated by the original author in a signed
+tag. You can verify the tag yourself with:
 
-![Caption: Twitter exchange from 2015.][1]
+    git tag --verify HANDOVER
 
-Please note that the mirrored code is not signed, and is not actively
-maintained. With that in mind, the authenticity of the source is stale
-at best.
+The tag also exists in the [original repository][3].
 
 # Security
 I lack the C and cryptographic expertise to vet the source code myself.
