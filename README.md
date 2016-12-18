@@ -45,6 +45,5 @@ necessary. The issue that this code addresses is too important to
 languish, and I sincerely hope that the right sort of people will choose
 to get involved.
 
-[1]: https://github.com/CodeGnome/gfshare-secretfs/blob/master/images/twitter_exchange.png
 [2]: https://twitter.com/dsilverstone
 [3]: https://git.gitano.org.uk/secretfs.git/tag/?id=HANDOVER
