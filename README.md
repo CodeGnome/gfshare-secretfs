@@ -36,8 +36,6 @@ things. Please consider contributing as you're able.
 1. Validation of the cryptographic implementation.
 1. Improved documentation on how to *use* the software, ideally in the
    wiki.
-1. A statement of support from the original author.
-1. A formal port to GPL3 by the original author.
 
 # Final Thoughts
 I consider myself a steward for this project, rather than the author's
